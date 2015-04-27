@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test02</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="source_lable">來源單位：</string>
+    <string name="target_lable">目標單位：</string>
+    <string name="result_lable">換算結果：</string>
+    <string name="convert_result">0</string>
+    <string name="convert_button">轉換</string>
+    <string name="spinner_text">請選擇單位</string>
+    //spinner array
+    <string-array name="source_spinner_item">
+        <item>公釐</item>
+        <item>公分</item>
+        <item>公尺</item>
+        <item>公里</item>
+    </string-array>
+</resources>
